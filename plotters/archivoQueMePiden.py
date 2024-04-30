@@ -21,8 +21,3 @@ def plot():
         autor="Bruno Festa",
         figura=figura,
     )
-    return dict(
-        descripcion="Expectativa de vida respecto a los ingresos en paises pequeños",
-        autor="Bruno Festa",
-        figura2=figura2,
-    )
